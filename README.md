@@ -5,6 +5,9 @@
 獅尾三角黑體的特色是，「一」字的開頭和結尾筆觸由平頭換成蝙蝠耳朵形狀。
 
 ![字體預覽](https://github.com/max32002/swei-bat-sans/raw/master/preview/welcome.png)
+
+和思源黑體一樣，支援7種的字重：
+![字體比較預覽](https://github.com/max32002/swei-bat-sans/raw/master/preview/compare_style.png)
 附註：目前有些筆畫還沒有套用到效果，是程式需要改進的地方。
 
 ## 與其他字體的比較
